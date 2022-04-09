@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="dk.sdu.mmmi.cbse.ExtraBeanyBeans1.branding">
+    <module_version install_time="1649528126379" last="true" origin="installer" specification_version="1.0.1">
+        <file crc="2996664815" name="config/Modules/dk-sdu-mmmi-cbse-ExtraBeanyBeans1-branding.xml"/>
+        <file crc="458373791" name="core/locale/core_extrabeanybeans1.jar"/>
+        <file crc="1339031413" name="modules/dk-sdu-mmmi-cbse-ExtraBeanyBeans1-branding.jar"/>
+        <file crc="306268658" name="modules/locale/org-netbeans-core-windows_extrabeanybeans1.jar"/>
+        <file crc="3365284443" name="modules/locale/org-netbeans-core_extrabeanybeans1.jar"/>
+    </module_version>
+</module>

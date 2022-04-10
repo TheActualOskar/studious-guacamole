@@ -3,8 +3,8 @@ OpenIDE-Module-Localizing-Bundle: dk/sdu/mmmi/cbse/extrabeanybeans1/br
  anding/Bundle.properties
 AutoUpdate-Essential-Module: true
 OpenIDE-Module-Specification-Version: 1.0.1
-OpenIDE-Module-Implementation-Version: 1.0.1-20220409
-OpenIDE-Module-Build-Version: 202204091815
+OpenIDE-Module-Implementation-Version: 1.0.1-20220410
+OpenIDE-Module-Build-Version: 202204101012
 OpenIDE-Module: dk.sdu.mmmi.cbse.ExtraBeanyBeans1.branding
 OpenIDE-Module-Public-Packages: -
 OpenIDE-Module-Requires: org.openide.modules.ModuleFormat1

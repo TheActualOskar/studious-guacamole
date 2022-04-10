@@ -1,5 +1,5 @@
 -------------------------------------------------------------------------------
->Log Session: Sunday, April 10, 2022 at 1:38:06 PM Central European Summer Time
+>Log Session: Sunday, April 10, 2022 at 6:12:02 PM Central European Summer Time
 >System Info: 
   Product Version         = Apache NetBeans Platform Dev (Build 12.6-9cacf1fd305b775b176576c8b633b10b73524861)
   Operating System        = Mac OS X version 11.2.3 running on x86_64
@@ -21,25 +21,255 @@
   Application Classpath   = /Users/oskar/Documents/studious-guacamole/ExtraBeanyBeans1/application/target/extrabeanybeans1/platform/lib/boot.jar:/Users/oskar/Documents/studious-guacamole/ExtraBeanyBeans1/application/target/extrabeanybeans1/platform/lib/org-openide-modules.jar:/Users/oskar/Documents/studious-guacamole/ExtraBeanyBeans1/application/target/extrabeanybeans1/platform/lib/org-openide-util-lookup.jar:/Users/oskar/Documents/studious-guacamole/ExtraBeanyBeans1/application/target/extrabeanybeans1/platform/lib/org-openide-util-ui.jar:/Users/oskar/Documents/studious-guacamole/ExtraBeanyBeans1/application/target/extrabeanybeans1/platform/lib/org-openide-util.jar
   Startup Classpath       = /Users/oskar/Documents/studious-guacamole/ExtraBeanyBeans1/application/target/extrabeanybeans1/platform/core/asm-tree-9.2.jar:/Users/oskar/Documents/studious-guacamole/ExtraBeanyBeans1/application/target/extrabeanybeans1/platform/core/org-netbeans-libs-asm.jar:/Users/oskar/Documents/studious-guacamole/ExtraBeanyBeans1/application/target/extrabeanybeans1/platform/core/org-openide-filesystems.jar:/Users/oskar/Documents/studious-guacamole/ExtraBeanyBeans1/application/target/extrabeanybeans1/platform/core/asm-9.2.jar:/Users/oskar/Documents/studious-guacamole/ExtraBeanyBeans1/application/target/extrabeanybeans1/platform/core/asm-commons-9.2.jar:/Users/oskar/Documents/studious-guacamole/ExtraBeanyBeans1/application/target/extrabeanybeans1/platform/core/core.jar:/Users/oskar/Documents/studious-guacamole/ExtraBeanyBeans1/application/target/extrabeanybeans1/platform/core/core-base.jar
 -------------------------------------------------------------------------------
+INFO [org.netbeans.core.startup.NbEvents]: Module patch or custom extension: /Users/oskar/Documents/studious-guacamole/ExtraBeanyBeans1/SilentUpdate/target/classes
 INFO [org.netbeans.core.startup.NbEvents]: Module patch or custom extension: /Users/oskar/Documents/studious-guacamole/ExtraBeanyBeans1/Enemy/target/classes
-INFO [org.netbeans.core.startup.NbEvents]: Module patch or custom extension: /Users/oskar/Documents/studious-guacamole/ExtraBeanyBeans1/Asteroid/target/classes
+INFO [org.netbeans.core.startup.NbEvents]: Module patch or custom extension: /Users/oskar/Documents/studious-guacamole/ExtraBeanyBeans1/Core/target/classes
+INFO [org.netbeans.core.modules]: Using file:/Users/oskar/Documents/studious-guacamole/ExtraBeanyBeans1/SilentUpdate/target/classes/org/netbeans/modules/autoupdate/silentupdate/resources/layer.xml as layer for dk.sdu.mmmi.cbse.SilentUpdate not jar:file:/Users/oskar/Documents/studious-guacamole/ExtraBeanyBeans1/application/target/extrabeanybeans1/extrabeanybeans1/modules/dk-sdu-mmmi-cbse-SilentUpdate.jar!/org/netbeans/modules/autoupdate/silentupdate/resources/layer.xml
+INFO [org.openide.awt.NotificationDisplayer]: No NotificationDisplayer implementation available.
+WARNING [org.netbeans.modules.autoupdate.ui.actions.AutoupdateSettings]: The property "netbeans.default_userdir_root" was not set!
+WARNING [null]: Last record repeated again.
+WARNING [org.openide.util.ImageUtilities]: No interface org.openide.util.spi.SVGLoader instance found in ProxyLookup(class=class org.netbeans.core.startup.MainLookup)->[MetaInfServicesLookup[SystemClassLoader[48 modules]], SingletonLookup[SystemClassLoader[48 modules]], ProxyLookup(class=class org.openide.util.lookup.ProxyLookup)->[SingletonLookup[org.netbeans.ModuleManager@2b79212f], ModuleLookup[StandardModule:org.openide.loaders jarFile: /Users/oskar/Documents/studious-guacamole/ExtraBeanyBeans1/application/target/extrabeanybeans1/platform/modules/org-openide-loaders.jar, StandardModule:org.netbeans.modules.sampler jarFile: /Users/oskar/Documents/studious-guacamole/ExtraBeanyBeans1/application/target/extrabeanybeans1/platform/modules/org-netbeans-modules-sampler.jar, StandardModule:org.netbeans.spi.quicksearch jarFile: /Users/oskar/Documents/studious-guacamole/ExtraBeanyBeans1/application/target/extrabeanybeans1/platform/modules/org-netbeans-spi-quicksearch.jar, StandardModule:org.netbeans.modules.netbinox jarFile: /Users/oskar/Documents/studious-guacamole/ExtraBeanyBeans1/application/target/extrabeanybeans1/platform/modules/org-netbeans-modules-netbinox.jar, StandardModule:org.netbeans.core jarFile: /Users/oskar/Documents/studious-guacamole/ExtraBeanyBeans1/application/target/extrabeanybeans1/platform/modules/org-netbeans-core.jar, StandardModule:org.openide.io jarFile: /Users/oskar/Documents/studious-guacamole/ExtraBeanyBeans1/application/target/extrabeanybeans1/platform/modules/org-openide-io.jar, StandardModule:org.netbeans.modules.autoupdate.services jarFile: /Users/oskar/Documents/studious-guacamole/ExtraBeanyBeans1/application/target/extrabeanybeans1/platform/modules/org-netbeans-modules-autoupdate-services.jar, FixedModule:org.netbeans.core.startup.base, StandardModule:org.netbeans.modules.autoupdate.ui jarFile: /Users/oskar/Documents/studious-guacamole/ExtraBeanyBeans1/application/target/extrabeanybeans1/platform/modules/org-netbeans-modules-autoupdate-ui.jar, StandardModule:org.netbeans.modules.editor.mimelookup jarFile: /Users/oskar/Documents/studious-guacamole/ExtraBeanyBeans1/application/target/extrabeanybeans1/platform/modules/org-netbeans-modules-editor-mimelookup.jar, StandardModule:org.netbeans.api.scripting jarFile: /Users/oskar/Documents/studious-guacamole/ExtraBeanyBeans1/application/target/extrabeanybeans1/platform/modules/org-netbeans-api-scripting.jar, StandardModule:org.netbeans.core.netigso jarFile: /Users/oskar/Documents/studious-guacamole/ExtraBeanyBeans1/application/target/extrabeanybeans1/platform/modules/org-netbeans-core-netigso.jar, StandardModule:org.netbeans.api.progress.nb jarFile: /Users/oskar/Documents/studious-guacamole/ExtraBeanyBeans1/application/target/extrabeanybeans1/platform/modules/org-netbeans-api-progress-nb.jar, Netigso: /Users/oskar/Documents/studious-guacamole/ExtraBeanyBeans1/application/target/extrabeanybeans1/extra/modules/org-objectweb-asm-tree-analysis.jar, StandardModule:org.netbeans.swing.outline jarFile: /Users/oskar/Documents/studious-guacamole/ExtraBeanyBeans1/application/target/extrabeanybeans1/platform/modules/org-netbeans-swing-outline.jar, StandardModule:org.netbeans.api.intent jarFile: /Users/oskar/Documents/studious-guacamole/ExtraBeanyBeans1/application/target/extrabeanybeans1/platform/modules/org-netbeans-api-intent.jar, StandardModule:org.openide.text jarFile: /Users/oskar/Documents/studious-guacamole/ExtraBeanyBeans1/application/target/extrabeanybeans1/platform/modules/org-openide-text.jar, StandardModule:org.netbeans.modules.options.api jarFile: /Users/oskar/Documents/studious-guacamole/ExtraBeanyBeans1/application/target/extrabeanybeans1/platform/modules/org-netbeans-modules-options-api.jar, StandardModule:org.openide.awt jarFile: /Users/oskar/Documents/studious-guacamole/ExtraBeanyBeans1/application/target/extrabeanybeans1/platform/modules/org-openide-awt.jar, StandardModule:org.netbeans.swing.tabcontrol jarFile: /Users/oskar/Documents/studious-guacamole/ExtraBeanyBeans1/application/target/extrabeanybeans1/platform/modules/org-netbeans-swing-tabcontrol.jar, FixedModule:org.openide.util, StandardModule:org.netbeans.modules.queries jarFile: /Users/oskar/Documents/studious-guacamole/ExtraBeanyBeans1/application/target/extrabeanybeans1/platform/modules/org-netbeans-modules-queries.jar, StandardModule:dk.sdu.mmmi.cbse.Enemy jarFile: /Users/oskar/Documents/studious-guacamole/ExtraBeanyBeans1/application/target/extrabeanybeans1/extrabeanybeans1/modules/dk-sdu-mmmi-cbse-Enemy.jar, FixedModule:org.openide.util.lookup, StandardModule:org.netbeans.libs.osgi jarFile: /Users/oskar/Documents/studious-guacamole/ExtraBeanyBeans1/application/target/extrabeanybeans1/platform/modules/org-netbeans-libs-osgi.jar, StandardModule:dk.sdu.mmmi.cbse.Core jarFile: /Users/oskar/Documents/studious-guacamole/ExtraBeanyBeans1/application/target/extrabeanybeans1/extrabeanybeans1/modules/dk-sdu-mmmi-cbse-Core.jar, StandardModule:org.openide.dialogs jarFile: /Users/oskar/Documents/studious-guacamole/ExtraBeanyBeans1/application/target/extrabeanybeans1/platform/modules/org-openide-dialogs.jar, StandardModule:dk.sdu.mmmi.cbse.Collision jarFile: /Users/oskar/Documents/studious-guacamole/ExtraBeanyBeans1/application/target/extrabeanybeans1/extrabeanybeans1/modules/dk-sdu-mmmi-cbse-Collision.jar, StandardModule:org.netbeans.api.annotations.common jarFile: /Users/oskar/Documents/studious-guacamole/ExtraBeanyBeans1/application/target/extrabeanybeans1/platform/modules/org-netbeans-api-annotations-common.jar, StandardModule:org.netbeans.api.templates jarFile: /Users/oskar/Documents/studious-guacamole/ExtraBeanyBeans1/application/target/extrabeanybeans1/platform/modules/org-netbeans-api-templates.jar, StandardModule:dk.sdu.mmmi.cbse.Player jarFile: /Users/oskar/Documents/studious-guacamole/ExtraBeanyBeans1/application/target/extrabeanybeans1/extrabeanybeans1/modules/dk-sdu-mmmi-cbse-Player.jar, StandardModule:org.openide.explorer jarFile: /Users/oskar/Documents/studious-guacamole/ExtraBeanyBeans1/application/target/extrabeanybeans1/platform/modules/org-openide-explorer.jar, StandardModule:org.netbeans.modules.keyring jarFile: /Users/oskar/Documents/studious-guacamole/ExtraBeanyBeans1/application/target/extrabeanybeans1/platform/modules/org-netbeans-modules-keyring.jar, StandardModule:org.openide.actions jarFile: /Users/oskar/Documents/studious-guacamole/ExtraBeanyBeans1/application/target/extrabeanybeans1/platform/modules/org-openide-actions.jar, FixedModule:org.openide.filesystems, FixedModule:org.openide.modules, StandardModule:org.netbeans.api.io jarFile: /Users/oskar/Documents/studious-guacamole/ExtraBeanyBeans1/application/target/extrabeanybeans1/platform/modules/org-netbeans-api-io.jar, StandardModule:org.openide.nodes jarFile: /Users/oskar/Documents/studious-guacamole/ExtraBeanyBeans1/application/target/extrabeanybeans1/platform/modules/org-openide-nodes.jar, StandardModule:org.netbeans.swing.plaf jarFile: /Users/oskar/Documents/studious-guacamole/ExtraBeanyBeans1/application/target/extrabeanybeans1/platform/modules/org-netbeans-swing-plaf.jar, FixedModule:org.netbeans.bootstrap, FixedModule:org.netbeans.core.startup, FixedModule:org.netbeans.libs.asm, StandardModule:org.netbeans.api.progress jarFile: /Users/oskar/Documents/studious-guacamole/ExtraBeanyBeans1/application/target/extrabeanybeans1/platform/modules/org-netbeans-api-progress.jar, StandardModule:dk.sdu.mmmi.cbse.SilentUpdate jarFile: /Users/oskar/Documents/studious-guacamole/ExtraBeanyBeans1/application/target/extrabeanybeans1/extrabeanybeans1/modules/dk-sdu-mmmi-cbse-SilentUpdate.jar, StandardModule:dk.sdu.mmmi.cbse.Common jarFile: /Users/oskar/Documents/studious-guacamole/ExtraBeanyBeans1/application/target/extrabeanybeans1/extrabeanybeans1/modules/dk-sdu-mmmi-cbse-Common.jar, StandardModule:dk.sdu.mmmi.cbse.Asteroid jarFile: /Users/oskar/Documents/studious-guacamole/ExtraBeanyBeans1/application/target/extrabeanybeans1/extrabeanybeans1/modules/dk-sdu-mmmi-cbse-Asteroid.jar, StandardModule:org.openide.filesystems.nb jarFile: /Users/oskar/Documents/studious-guacamole/ExtraBeanyBeans1/application/target/extrabeanybeans1/platform/modules/org-openide-filesystems-nb.jar, StandardModule:org.openide.windows jarFile: /Users/oskar/Documents/studious-guacamole/ExtraBeanyBeans1/application/target/extrabeanybeans1/platform/modules/org-openide-windows.jar, FixedModule:org.openide.util.ui]], AbstractLookup[], FolderLookup.lookup["SL["]]
+INFO [org.openide.util.ImageUtilities]: No SVG loader available for loading jar:file:/Users/oskar/Documents/studious-guacamole/ExtraBeanyBeans1/application/target/extrabeanybeans1/platform/modules/org-netbeans-swing-plaf.jar!/org/netbeans/swing/plaf/resources/hidpi-folder-closed.svg
+INFO [org.openide.util.ImageUtilities]: No SVG loader available for loading jar:file:/Users/oskar/Documents/studious-guacamole/ExtraBeanyBeans1/application/target/extrabeanybeans1/platform/modules/org-netbeans-swing-plaf.jar!/org/netbeans/swing/plaf/resources/hidpi-folder-open.svg
 INFO [org.netbeans.core.startup.NbEvents]: Turning on modules:
 	org.openide.util.lookup [8.48 12.6-9cacf1fd305b775b176576c8b633b10b73524861]
 	org.openide.util [9.22 12.6-9cacf1fd305b775b176576c8b633b10b73524861]
 	org.openide.util.ui [9.22 12.6-9cacf1fd305b775b176576c8b633b10b73524861]
 	org.openide.modules [7.62 12.6-9cacf1fd305b775b176576c8b633b10b73524861]
+	org.netbeans.api.annotations.common/1 [1.42 12.6-9cacf1fd305b775b176576c8b633b10b73524861]
 	org.openide.filesystems [9.26 12.6-9cacf1fd305b775b176576c8b633b10b73524861]
+	org.openide.awt [7.82 12.6-9cacf1fd305b775b176576c8b633b10b73524861]
+	org.netbeans.api.progress/1 [1.62 12.6-9cacf1fd305b775b176576c8b633b10b73524861]
+	org.netbeans.api.progress.nb [1.62 12.6-9cacf1fd305b775b176576c8b633b10b73524861]
+	org.openide.dialogs [7.56 12.6-9cacf1fd305b775b176576c8b633b10b73524861]
+	org.openide.nodes [7.59 12.6-9cacf1fd305b775b176576c8b633b10b73524861]
+	org.openide.windows [6.91 12.6-9cacf1fd305b775b176576c8b633b10b73524861]
+	org.netbeans.modules.editor.mimelookup/1 [1.54 12.6-9cacf1fd305b775b176576c8b633b10b73524861]
+	org.openide.text [6.82 12.6-9cacf1fd305b775b176576c8b633b10b73524861]
+	org.netbeans.api.scripting [1.11 12.6-9cacf1fd305b775b176576c8b633b10b73524861]
+	org.netbeans.swing.tabcontrol [1.70 12.6-9cacf1fd305b775b176576c8b633b10b73524861]
+	org.netbeans.swing.outline [1.48 12.6-9cacf1fd305b775b176576c8b633b10b73524861]
+	org.openide.explorer [6.76 12.6-9cacf1fd305b775b176576c8b633b10b73524861]
+	org.openide.actions [6.53 12.6-9cacf1fd305b775b176576c8b633b10b73524861]
+	org.netbeans.modules.queries/1 [1.57 12.6-9cacf1fd305b775b176576c8b633b10b73524861]
+	org.netbeans.api.templates [1.22 12.6-9cacf1fd305b775b176576c8b633b10b73524861]
+	org.openide.filesystems.nb [9.24 12.6-9cacf1fd305b775b176576c8b633b10b73524861]
+	org.openide.loaders [7.84 12.6-9cacf1fd305b775b176576c8b633b10b73524861]
+	org.netbeans.api.intent [1.16 12.6-9cacf1fd305b775b176576c8b633b10b73524861]
+	org.netbeans.api.io [1.17 12.6-9cacf1fd305b775b176576c8b633b10b73524861]
+	org.openide.io [1.63 12.6-9cacf1fd305b775b176576c8b633b10b73524861]
+	org.netbeans.swing.plaf [1.56 12.6-9cacf1fd305b775b176576c8b633b10b73524861]
+	org.netbeans.spi.quicksearch [1.41 12.6-9cacf1fd305b775b176576c8b633b10b73524861]
+	org.netbeans.modules.sampler [1.28 12.6-9cacf1fd305b775b176576c8b633b10b73524861]
+	org.netbeans.modules.keyring [1.38 12.6-9cacf1fd305b775b176576c8b633b10b73524861]
 	org.netbeans.libs.asm [5.17 12.6-9cacf1fd305b775b176576c8b633b10b73524861]
 	org.netbeans.bootstrap/1 [2.92 12.6-9cacf1fd305b775b176576c8b633b10b73524861]
 	org.netbeans.core.startup.base [1.76.0.1 1 12.6-9cacf1fd305b775b176576c8b633b10b73524861]
 	org.netbeans.core.startup/1 [1.76.0.1 12.6-9cacf1fd305b775b176576c8b633b10b73524861]
+	org.netbeans.core/2 [3.65 12.6-9cacf1fd305b775b176576c8b633b10b73524861]
+	org.netbeans.modules.options.api/1 [1.59 12.6-9cacf1fd305b775b176576c8b633b10b73524861]
 	org.netbeans.libs.osgi [1.36 12.6-9cacf1fd305b775b176576c8b633b10b73524861]
 	org.netbeans.core.netigso [1.45 12.6-9cacf1fd305b775b176576c8b633b10b73524861]
 	org.netbeans.modules.netbinox [1.55 12.6-9cacf1fd305b775b176576c8b633b10b73524861]
-	org.netbeans.api.annotations.common/1 [1.42 12.6-9cacf1fd305b775b176576c8b633b10b73524861]
-	dk.sdu.mmmi.cbse.Common [1.0.1 1.0.1-20220410 202204101137]
-	dk.sdu.mmmi.cbse.Player [1.0.1 1.0.1-20220410 202204101137]
-	dk.sdu.mmmi.cbse.Enemy [1.0.1 1.0.1-20220410 202204101137]
-	dk.sdu.mmmi.cbse.Asteroid [1.0.1 1.0.1-20220410 202204101137]
-	dk.sdu.mmmi.cbse.Collision [1.0.1 1.0.1-20220410 202204101137]
-	dk.sdu.mmmi.cbse.Core [1.0.1 1.0.1-20220410 202204101137]
+	org.netbeans.modules.autoupdate.services [1.69 12.6-9cacf1fd305b775b176576c8b633b10b73524861]
+	org.netbeans.modules.autoupdate.ui [1.60 12.6-9cacf1fd305b775b176576c8b633b10b73524861]
+	dk.sdu.mmmi.cbse.SilentUpdate [1.0.1 1.0.1-20220410 202204101611]
+	dk.sdu.mmmi.cbse.Common [1.0.1 1.0.1-20220410 202204101611]
+	dk.sdu.mmmi.cbse.Player [1.0.1 1.0.1-20220410 202204101611]
+	dk.sdu.mmmi.cbse.Enemy [1.0.1 1.0.1-20220410 202204101611]
+	dk.sdu.mmmi.cbse.Asteroid [1.0.1 1.0.1-20220410 202204101611]
+	dk.sdu.mmmi.cbse.Collision [1.0.1 1.0.1-20220410 202204101611]
+	dk.sdu.mmmi.cbse.Core [1.0.1 1.0.1-20220410 202204101611]
+WARNING [org.netbeans.core.GuiRunLevel]: Module org.netbeans.core.windows missing, cannot start window system
+java.lang.IllegalAccessException: class org.netbeans.TopSecurityManager cannot access class sun.awt.AppContext (in module java.desktop) because module java.desktop does not export sun.awt to unnamed module @4dca0ecd
+	at java.base/jdk.internal.reflect.Reflection.newIllegalAccessException(Reflection.java:392)
+	at java.base/java.lang.reflect.AccessibleObject.checkAccess(AccessibleObject.java:674)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:560)
+	at org.netbeans.TopSecurityManager.makeSwingUseSpecialClipboard(TopSecurityManager.java:714)
+	at org.netbeans.core.NbLifecycleManager.advancePolicy(NbLifecycleManager.java:71)
+	at org.netbeans.core.GuiRunLevel.run(GuiRunLevel.java:84)
+	at org.netbeans.core.startup.Main.start(Main.java:295)
+	at org.netbeans.core.startup.TopThreadGroup.run(TopThreadGroup.java:98)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+INFO [org.netbeans.modules.autoupdate.silentupdate]: None for update/install/uninstall
+INFO [null]: Last record repeated again.
+INFO [null]: Last record repeated 2 more times.
+INFO [null]: Last record repeated 2 more times.
+INFO [null]: Last record repeated again.
+INFO [null]: Last record repeated 2 more times.
+INFO [null]: Last record repeated again.
+INFO [null]: Last record repeated more than 10 times, further logs of this record are ignored until the log record changes.
+INFO [null]: Last record repeated 31 times in total.
+INFO [org.netbeans.modules.autoupdate.silentupdate]: Uninstall found: Asteroid[dk.sdu.mmmi.cbse.Asteroid/1.0.1]
+INFO [org.netbeans.core.startup.NbEvents]: Turning off modules:
+	dk.sdu.mmmi.cbse.Core [1.0.1 1.0.1-20220410 202204101611]
+	dk.sdu.mmmi.cbse.Asteroid [1.0.1 1.0.1-20220410 202204101611]
+INFO [org.netbeans.modules.autoupdate.silentupdate]: Unstall modules done.
+INFO [org.netbeans.modules.autoupdate.silentupdate]: Update found: Core[dk.sdu.mmmi.cbse.Core/1.0.1]
+INFO [org.netbeans.modules.autoupdate.silentupdate]: There are broken dependencies => cannot continue, broken deps: [module dk.sdu.mmmi.cbse.Asteroid > 1.0.1]
+INFO [org.netbeans.modules.autoupdate.silentupdate]: Update found: Core[dk.sdu.mmmi.cbse.Core/1.0.1]
+INFO [org.netbeans.modules.autoupdate.silentupdate]: Update found: Asteroid[dk.sdu.mmmi.cbse.Asteroid/1.0.1]
+INFO [org.netbeans.updater]: 780: Unpacking dk-sdu-mmmi-cbse-Asteroid.nbm
+INFO [org.netbeans.updater]: File installed /Users/oskar/Documents/studious-guacamole/ExtraBeanyBeans1/application/target/extrabeanybeans1/extrabeanybeans1/config/Modules/dk-sdu-mmmi-cbse-Asteroid.xml@0
+INFO [org.netbeans.updater]: Copied file /Users/oskar/Documents/studious-guacamole/ExtraBeanyBeans1/application/target/extrabeanybeans1/extrabeanybeans1/update/download/dk-sdu-mmmi-cbse-Asteroid.nbm:netbeans/config/Modules/dk-sdu-mmmi-cbse-Asteroid.xml to /Users/oskar/Documents/studious-guacamole/ExtraBeanyBeans1/application/target/extrabeanybeans1/extrabeanybeans1/config/Modules/dk-sdu-mmmi-cbse-Asteroid.xml
+INFO [org.netbeans.updater]: File installed /Users/oskar/Documents/studious-guacamole/ExtraBeanyBeans1/application/target/extrabeanybeans1/extrabeanybeans1/modules/dk-sdu-mmmi-cbse-Asteroid.jar@0
+INFO [org.netbeans.updater]: Copied file /Users/oskar/Documents/studious-guacamole/ExtraBeanyBeans1/application/target/extrabeanybeans1/extrabeanybeans1/update/download/dk-sdu-mmmi-cbse-Asteroid.nbm:netbeans/modules/dk-sdu-mmmi-cbse-Asteroid.jar to /Users/oskar/Documents/studious-guacamole/ExtraBeanyBeans1/application/target/extrabeanybeans1/extrabeanybeans1/modules/dk-sdu-mmmi-cbse-Asteroid.jar
+INFO [org.netbeans.updater]: File /Users/oskar/Documents/studious-guacamole/ExtraBeanyBeans1/application/target/extrabeanybeans1/extrabeanybeans1/update/download/dk-sdu-mmmi-cbse-Asteroid.nbm deleted.
+INFO [org.netbeans.updater]: Use XML Transformer: com.sun.org.apache.xalan.internal.xsltc.trax.TransformerImpl@2b8d3628
+INFO [org.netbeans.updater]: File /Users/oskar/Documents/studious-guacamole/ExtraBeanyBeans1/application/target/extrabeanybeans1/extrabeanybeans1/update_tracking/dk-sdu-mmmi-cbse-Asteroid.xml modified.
+INFO [org.netbeans.updater]: File installed /Users/oskar/Documents/studious-guacamole/ExtraBeanyBeans1/application/target/extrabeanybeans1/extrabeanybeans1/update_tracking/dk-sdu-mmmi-cbse-Asteroid.xml@0
+INFO [org.netbeans.updater]: 780: Unpacking dk-sdu-mmmi-cbse-Core.nbm
+INFO [org.netbeans.updater]: File installed /Users/oskar/Documents/studious-guacamole/ExtraBeanyBeans1/application/target/extrabeanybeans1/extrabeanybeans1/config/Modules/dk-sdu-mmmi-cbse-Core.xml@0
+INFO [org.netbeans.updater]: Copied file /Users/oskar/Documents/studious-guacamole/ExtraBeanyBeans1/application/target/extrabeanybeans1/extrabeanybeans1/update/download/dk-sdu-mmmi-cbse-Core.nbm:netbeans/config/Modules/dk-sdu-mmmi-cbse-Core.xml to /Users/oskar/Documents/studious-guacamole/ExtraBeanyBeans1/application/target/extrabeanybeans1/extrabeanybeans1/config/Modules/dk-sdu-mmmi-cbse-Core.xml
+INFO [org.netbeans.updater]: File installed /Users/oskar/Documents/studious-guacamole/ExtraBeanyBeans1/application/target/extrabeanybeans1/extrabeanybeans1/modules/dk-sdu-mmmi-cbse-Core.jar@0
+INFO [org.netbeans.updater]: Copied file /Users/oskar/Documents/studious-guacamole/ExtraBeanyBeans1/application/target/extrabeanybeans1/extrabeanybeans1/update/download/dk-sdu-mmmi-cbse-Core.nbm:netbeans/modules/dk-sdu-mmmi-cbse-Core.jar to /Users/oskar/Documents/studious-guacamole/ExtraBeanyBeans1/application/target/extrabeanybeans1/extrabeanybeans1/modules/dk-sdu-mmmi-cbse-Core.jar
+INFO [org.netbeans.updater]: File installed /Users/oskar/Documents/studious-guacamole/ExtraBeanyBeans1/application/target/extrabeanybeans1/extrabeanybeans1/modules/ext/dk.sdu.mmmi.cbse.Core/com-badlogicgames-gdx/gdx-backend-lwjgl.jar@0
+INFO [org.netbeans.updater]: Copied file /Users/oskar/Documents/studious-guacamole/ExtraBeanyBeans1/application/target/extrabeanybeans1/extrabeanybeans1/update/download/dk-sdu-mmmi-cbse-Core.nbm:netbeans/modules/ext/dk.sdu.mmmi.cbse.Core/com-badlogicgames-gdx/gdx-backend-lwjgl.jar to /Users/oskar/Documents/studious-guacamole/ExtraBeanyBeans1/application/target/extrabeanybeans1/extrabeanybeans1/modules/ext/dk.sdu.mmmi.cbse.Core/com-badlogicgames-gdx/gdx-backend-lwjgl.jar
+INFO [org.netbeans.updater]: File installed /Users/oskar/Documents/studious-guacamole/ExtraBeanyBeans1/application/target/extrabeanybeans1/extrabeanybeans1/modules/ext/dk.sdu.mmmi.cbse.Core/com-badlogicgames-gdx/gdx-box2d-platform-natives-desktop.jar@0
+INFO [org.netbeans.updater]: Copied file /Users/oskar/Documents/studious-guacamole/ExtraBeanyBeans1/application/target/extrabeanybeans1/extrabeanybeans1/update/download/dk-sdu-mmmi-cbse-Core.nbm:netbeans/modules/ext/dk.sdu.mmmi.cbse.Core/com-badlogicgames-gdx/gdx-box2d-platform-natives-desktop.jar to /Users/oskar/Documents/studious-guacamole/ExtraBeanyBeans1/application/target/extrabeanybeans1/extrabeanybeans1/modules/ext/dk.sdu.mmmi.cbse.Core/com-badlogicgames-gdx/gdx-box2d-platform-natives-desktop.jar
+INFO [org.netbeans.updater]: File installed /Users/oskar/Documents/studious-guacamole/ExtraBeanyBeans1/application/target/extrabeanybeans1/extrabeanybeans1/modules/ext/dk.sdu.mmmi.cbse.Core/com-badlogicgames-gdx/gdx-box2d.jar@0
+INFO [org.netbeans.updater]: Copied file /Users/oskar/Documents/studious-guacamole/ExtraBeanyBeans1/application/target/extrabeanybeans1/extrabeanybeans1/update/download/dk-sdu-mmmi-cbse-Core.nbm:netbeans/modules/ext/dk.sdu.mmmi.cbse.Core/com-badlogicgames-gdx/gdx-box2d.jar to /Users/oskar/Documents/studious-guacamole/ExtraBeanyBeans1/application/target/extrabeanybeans1/extrabeanybeans1/modules/ext/dk.sdu.mmmi.cbse.Core/com-badlogicgames-gdx/gdx-box2d.jar
+INFO [org.netbeans.updater]: File installed /Users/oskar/Documents/studious-guacamole/ExtraBeanyBeans1/application/target/extrabeanybeans1/extrabeanybeans1/modules/ext/dk.sdu.mmmi.cbse.Core/com-badlogicgames-gdx/gdx-freetype-platform-natives-desktop.jar@0
+INFO [org.netbeans.updater]: Copied file /Users/oskar/Documents/studious-guacamole/ExtraBeanyBeans1/application/target/extrabeanybeans1/extrabeanybeans1/update/download/dk-sdu-mmmi-cbse-Core.nbm:netbeans/modules/ext/dk.sdu.mmmi.cbse.Core/com-badlogicgames-gdx/gdx-freetype-platform-natives-desktop.jar to /Users/oskar/Documents/studious-guacamole/ExtraBeanyBeans1/application/target/extrabeanybeans1/extrabeanybeans1/modules/ext/dk.sdu.mmmi.cbse.Core/com-badlogicgames-gdx/gdx-freetype-platform-natives-desktop.jar
+INFO [org.netbeans.updater]: File installed /Users/oskar/Documents/studious-guacamole/ExtraBeanyBeans1/application/target/extrabeanybeans1/extrabeanybeans1/modules/ext/dk.sdu.mmmi.cbse.Core/com-badlogicgames-gdx/gdx-freetype.jar@0
+INFO [org.netbeans.updater]: Copied file /Users/oskar/Documents/studious-guacamole/ExtraBeanyBeans1/application/target/extrabeanybeans1/extrabeanybeans1/update/download/dk-sdu-mmmi-cbse-Core.nbm:netbeans/modules/ext/dk.sdu.mmmi.cbse.Core/com-badlogicgames-gdx/gdx-freetype.jar to /Users/oskar/Documents/studious-guacamole/ExtraBeanyBeans1/application/target/extrabeanybeans1/extrabeanybeans1/modules/ext/dk.sdu.mmmi.cbse.Core/com-badlogicgames-gdx/gdx-freetype.jar
+INFO [org.netbeans.updater]: File installed /Users/oskar/Documents/studious-guacamole/ExtraBeanyBeans1/application/target/extrabeanybeans1/extrabeanybeans1/modules/ext/dk.sdu.mmmi.cbse.Core/com-badlogicgames-gdx/gdx-platform-natives-desktop.jar@0
+INFO [org.netbeans.updater]: Copied file /Users/oskar/Documents/studious-guacamole/ExtraBeanyBeans1/application/target/extrabeanybeans1/extrabeanybeans1/update/download/dk-sdu-mmmi-cbse-Core.nbm:netbeans/modules/ext/dk.sdu.mmmi.cbse.Core/com-badlogicgames-gdx/gdx-platform-natives-desktop.jar to /Users/oskar/Documents/studious-guacamole/ExtraBeanyBeans1/application/target/extrabeanybeans1/extrabeanybeans1/modules/ext/dk.sdu.mmmi.cbse.Core/com-badlogicgames-gdx/gdx-platform-natives-desktop.jar
+INFO [org.netbeans.updater]: File installed /Users/oskar/Documents/studious-guacamole/ExtraBeanyBeans1/application/target/extrabeanybeans1/extrabeanybeans1/modules/ext/dk.sdu.mmmi.cbse.Core/com-badlogicgames-gdx/gdx.jar@0
+INFO [org.netbeans.updater]: Copied file /Users/oskar/Documents/studious-guacamole/ExtraBeanyBeans1/application/target/extrabeanybeans1/extrabeanybeans1/update/download/dk-sdu-mmmi-cbse-Core.nbm:netbeans/modules/ext/dk.sdu.mmmi.cbse.Core/com-badlogicgames-gdx/gdx.jar to /Users/oskar/Documents/studious-guacamole/ExtraBeanyBeans1/application/target/extrabeanybeans1/extrabeanybeans1/modules/ext/dk.sdu.mmmi.cbse.Core/com-badlogicgames-gdx/gdx.jar
+INFO [org.netbeans.updater]: File installed /Users/oskar/Documents/studious-guacamole/ExtraBeanyBeans1/application/target/extrabeanybeans1/extrabeanybeans1/modules/ext/dk.sdu.mmmi.cbse.Core/com-badlogicgames-jlayer/jlayer.jar@0
+INFO [org.netbeans.updater]: Copied file /Users/oskar/Documents/studious-guacamole/ExtraBeanyBeans1/application/target/extrabeanybeans1/extrabeanybeans1/update/download/dk-sdu-mmmi-cbse-Core.nbm:netbeans/modules/ext/dk.sdu.mmmi.cbse.Core/com-badlogicgames-jlayer/jlayer.jar to /Users/oskar/Documents/studious-guacamole/ExtraBeanyBeans1/application/target/extrabeanybeans1/extrabeanybeans1/modules/ext/dk.sdu.mmmi.cbse.Core/com-badlogicgames-jlayer/jlayer.jar
+INFO [org.netbeans.updater]: File installed /Users/oskar/Documents/studious-guacamole/ExtraBeanyBeans1/application/target/extrabeanybeans1/extrabeanybeans1/modules/ext/dk.sdu.mmmi.cbse.Core/net-java-jinput/jinput.jar@0
+INFO [org.netbeans.updater]: Copied file /Users/oskar/Documents/studious-guacamole/ExtraBeanyBeans1/application/target/extrabeanybeans1/extrabeanybeans1/update/download/dk-sdu-mmmi-cbse-Core.nbm:netbeans/modules/ext/dk.sdu.mmmi.cbse.Core/net-java-jinput/jinput.jar to /Users/oskar/Documents/studious-guacamole/ExtraBeanyBeans1/application/target/extrabeanybeans1/extrabeanybeans1/modules/ext/dk.sdu.mmmi.cbse.Core/net-java-jinput/jinput.jar
+INFO [org.netbeans.updater]: File installed /Users/oskar/Documents/studious-guacamole/ExtraBeanyBeans1/application/target/extrabeanybeans1/extrabeanybeans1/modules/ext/dk.sdu.mmmi.cbse.Core/net-java-jutils/jutils.jar@0
+INFO [org.netbeans.updater]: Copied file /Users/oskar/Documents/studious-guacamole/ExtraBeanyBeans1/application/target/extrabeanybeans1/extrabeanybeans1/update/download/dk-sdu-mmmi-cbse-Core.nbm:netbeans/modules/ext/dk.sdu.mmmi.cbse.Core/net-java-jutils/jutils.jar to /Users/oskar/Documents/studious-guacamole/ExtraBeanyBeans1/application/target/extrabeanybeans1/extrabeanybeans1/modules/ext/dk.sdu.mmmi.cbse.Core/net-java-jutils/jutils.jar
+INFO [org.netbeans.updater]: File installed /Users/oskar/Documents/studious-guacamole/ExtraBeanyBeans1/application/target/extrabeanybeans1/extrabeanybeans1/modules/ext/dk.sdu.mmmi.cbse.Core/org-jcraft/jorbis.jar@0
+INFO [org.netbeans.updater]: Copied file /Users/oskar/Documents/studious-guacamole/ExtraBeanyBeans1/application/target/extrabeanybeans1/extrabeanybeans1/update/download/dk-sdu-mmmi-cbse-Core.nbm:netbeans/modules/ext/dk.sdu.mmmi.cbse.Core/org-jcraft/jorbis.jar to /Users/oskar/Documents/studious-guacamole/ExtraBeanyBeans1/application/target/extrabeanybeans1/extrabeanybeans1/modules/ext/dk.sdu.mmmi.cbse.Core/org-jcraft/jorbis.jar
+INFO [org.netbeans.updater]: File installed /Users/oskar/Documents/studious-guacamole/ExtraBeanyBeans1/application/target/extrabeanybeans1/extrabeanybeans1/modules/ext/dk.sdu.mmmi.cbse.Core/org-lwjgl-lwjgl/lwjgl-platform-natives-linux.jar@0
+INFO [org.netbeans.updater]: Copied file /Users/oskar/Documents/studious-guacamole/ExtraBeanyBeans1/application/target/extrabeanybeans1/extrabeanybeans1/update/download/dk-sdu-mmmi-cbse-Core.nbm:netbeans/modules/ext/dk.sdu.mmmi.cbse.Core/org-lwjgl-lwjgl/lwjgl-platform-natives-linux.jar to /Users/oskar/Documents/studious-guacamole/ExtraBeanyBeans1/application/target/extrabeanybeans1/extrabeanybeans1/modules/ext/dk.sdu.mmmi.cbse.Core/org-lwjgl-lwjgl/lwjgl-platform-natives-linux.jar
+INFO [org.netbeans.updater]: File installed /Users/oskar/Documents/studious-guacamole/ExtraBeanyBeans1/application/target/extrabeanybeans1/extrabeanybeans1/modules/ext/dk.sdu.mmmi.cbse.Core/org-lwjgl-lwjgl/lwjgl-platform-natives-osx.jar@0
+INFO [org.netbeans.updater]: Copied file /Users/oskar/Documents/studious-guacamole/ExtraBeanyBeans1/application/target/extrabeanybeans1/extrabeanybeans1/update/download/dk-sdu-mmmi-cbse-Core.nbm:netbeans/modules/ext/dk.sdu.mmmi.cbse.Core/org-lwjgl-lwjgl/lwjgl-platform-natives-osx.jar to /Users/oskar/Documents/studious-guacamole/ExtraBeanyBeans1/application/target/extrabeanybeans1/extrabeanybeans1/modules/ext/dk.sdu.mmmi.cbse.Core/org-lwjgl-lwjgl/lwjgl-platform-natives-osx.jar
+INFO [org.netbeans.updater]: File installed /Users/oskar/Documents/studious-guacamole/ExtraBeanyBeans1/application/target/extrabeanybeans1/extrabeanybeans1/modules/ext/dk.sdu.mmmi.cbse.Core/org-lwjgl-lwjgl/lwjgl-platform-natives-windows.jar@0
+INFO [org.netbeans.updater]: Copied file /Users/oskar/Documents/studious-guacamole/ExtraBeanyBeans1/application/target/extrabeanybeans1/extrabeanybeans1/update/download/dk-sdu-mmmi-cbse-Core.nbm:netbeans/modules/ext/dk.sdu.mmmi.cbse.Core/org-lwjgl-lwjgl/lwjgl-platform-natives-windows.jar to /Users/oskar/Documents/studious-guacamole/ExtraBeanyBeans1/application/target/extrabeanybeans1/extrabeanybeans1/modules/ext/dk.sdu.mmmi.cbse.Core/org-lwjgl-lwjgl/lwjgl-platform-natives-windows.jar
+INFO [org.netbeans.updater]: File installed /Users/oskar/Documents/studious-guacamole/ExtraBeanyBeans1/application/target/extrabeanybeans1/extrabeanybeans1/modules/ext/dk.sdu.mmmi.cbse.Core/org-lwjgl-lwjgl/lwjgl.jar@0
+INFO [org.netbeans.updater]: Copied file /Users/oskar/Documents/studious-guacamole/ExtraBeanyBeans1/application/target/extrabeanybeans1/extrabeanybeans1/update/download/dk-sdu-mmmi-cbse-Core.nbm:netbeans/modules/ext/dk.sdu.mmmi.cbse.Core/org-lwjgl-lwjgl/lwjgl.jar to /Users/oskar/Documents/studious-guacamole/ExtraBeanyBeans1/application/target/extrabeanybeans1/extrabeanybeans1/modules/ext/dk.sdu.mmmi.cbse.Core/org-lwjgl-lwjgl/lwjgl.jar
+INFO [org.netbeans.updater]: File installed /Users/oskar/Documents/studious-guacamole/ExtraBeanyBeans1/application/target/extrabeanybeans1/extrabeanybeans1/modules/ext/dk.sdu.mmmi.cbse.Core/org-lwjgl-lwjgl/lwjgl_util.jar@0
+INFO [org.netbeans.updater]: Copied file /Users/oskar/Documents/studious-guacamole/ExtraBeanyBeans1/application/target/extrabeanybeans1/extrabeanybeans1/update/download/dk-sdu-mmmi-cbse-Core.nbm:netbeans/modules/ext/dk.sdu.mmmi.cbse.Core/org-lwjgl-lwjgl/lwjgl_util.jar to /Users/oskar/Documents/studious-guacamole/ExtraBeanyBeans1/application/target/extrabeanybeans1/extrabeanybeans1/modules/ext/dk.sdu.mmmi.cbse.Core/org-lwjgl-lwjgl/lwjgl_util.jar
+INFO [org.netbeans.updater]: File /Users/oskar/Documents/studious-guacamole/ExtraBeanyBeans1/application/target/extrabeanybeans1/extrabeanybeans1/update/download/dk-sdu-mmmi-cbse-Core.nbm deleted.
+INFO [org.netbeans.updater]: Use XML Transformer: com.sun.org.apache.xalan.internal.xsltc.trax.TransformerImpl@332175df
+INFO [org.netbeans.updater]: File /Users/oskar/Documents/studious-guacamole/ExtraBeanyBeans1/application/target/extrabeanybeans1/extrabeanybeans1/update_tracking/dk-sdu-mmmi-cbse-Core.xml modified.
+INFO [org.netbeans.updater]: File installed /Users/oskar/Documents/studious-guacamole/ExtraBeanyBeans1/application/target/extrabeanybeans1/extrabeanybeans1/update_tracking/dk-sdu-mmmi-cbse-Core.xml@0
+INFO [org.netbeans.updater]: File /Users/oskar/Documents/studious-guacamole/ExtraBeanyBeans1/application/target/extrabeanybeans1/extrabeanybeans1/update/download/additional_information.xml deleted.
+INFO [org.netbeans.core.startup.NbEvents]: Module patch or custom extension: /Users/oskar/Documents/studious-guacamole/ExtraBeanyBeans1/Core/target/classes
+INFO [org.netbeans.modules.autoupdate.silentupdate]: Install new modules done.
+java.lang.UnsatisfiedLinkError: Native Library /private/var/folders/84/t8dg_5tn4f5dql9_rxz67j100000gn/T/libgdxoskar/d2edc82d/libgdx64.dylib already loaded in another classloader
+	at java.base/jdk.internal.loader.NativeLibraries.loadLibrary(NativeLibraries.java:201)
+	at java.base/jdk.internal.loader.NativeLibraries.loadLibrary(NativeLibraries.java:174)
+	at java.base/java.lang.ClassLoader.loadLibrary(ClassLoader.java:2389)
+	at java.base/java.lang.Runtime.load0(Runtime.java:755)
+	at java.base/java.lang.System.load(System.java:1953)
+	at com.badlogic.gdx.utils.SharedLibraryLoader.loadFile(SharedLibraryLoader.java:299)
+	at com.badlogic.gdx.utils.SharedLibraryLoader.loadFile(SharedLibraryLoader.java:268)
+	at com.badlogic.gdx.utils.SharedLibraryLoader.load(SharedLibraryLoader.java:115)
+	at com.badlogic.gdx.utils.GdxNativesLoader.load(GdxNativesLoader.java:34)
+	at com.badlogic.gdx.backends.lwjgl.LwjglNativesLoader.load(LwjglNativesLoader.java:47)
+	at com.badlogic.gdx.backends.lwjgl.LwjglApplication.<init>(LwjglApplication.java:76)
+	at com.badlogic.gdx.backends.lwjgl.LwjglApplication.<init>(LwjglApplication.java:64)
+	at dk.sdu.mmmi.cbse.core.main.Installer.restored(Installer.java:23)
+	at org.netbeans.core.startup.NbInstaller.loadCode(NbInstaller.java:447)
+	at org.netbeans.core.startup.NbInstaller.loadImpl(NbInstaller.java:370)
+	at org.netbeans.core.startup.NbInstaller.access$000(NbInstaller.java:77)
+	at org.netbeans.core.startup.NbInstaller$1.run(NbInstaller.java:322)
+	at org.openide.filesystems.FileUtil$2.run(FileUtil.java:417)
+	at org.openide.filesystems.EventControl.runAtomicAction(EventControl.java:102)
+	at org.openide.filesystems.FileSystem.runAtomicAction(FileSystem.java:494)
+	at org.openide.filesystems.FileUtil.runAtomicAction(FileUtil.java:401)
+	at org.openide.filesystems.FileUtil.runAtomicAction(FileUtil.java:421)
+	at org.netbeans.core.startup.NbInstaller.load(NbInstaller.java:319)
+	at org.netbeans.ModuleManager.enable(ModuleManager.java:1457)
+	at org.netbeans.ModuleManager.enable(ModuleManager.java:1254)
+	at org.netbeans.core.startup.ModuleList.installNew(ModuleList.java:315)
+	at org.netbeans.core.startup.ModuleList.access$2400(ModuleList.java:93)
+	at org.netbeans.core.startup.ModuleList$Listener.stepEnable(ModuleList.java:1384)
+	at org.netbeans.core.startup.ModuleList$Listener.access$1400(ModuleList.java:982)
+	at org.netbeans.core.startup.ModuleList$Listener$1.run(ModuleList.java:1206)
+	at org.openide.filesystems.EventControl.runAtomicAction(EventControl.java:102)
+	at org.openide.filesystems.FileSystem.runAtomicAction(FileSystem.java:494)
+	at org.netbeans.core.startup.ModuleList$Listener.run(ModuleList.java:1182)
+	at org.openide.util.RequestProcessor$Task.run(RequestProcessor.java:1418)
+	at org.netbeans.modules.openide.util.GlobalLookup.execute(GlobalLookup.java:45)
+	at org.openide.util.lookup.Lookups.executeWith(Lookups.java:278)
+	at org.openide.util.RequestProcessor$Processor.run(RequestProcessor.java:2033)
+SEVERE [org.netbeans.core.modules]
+java.lang.UnsatisfiedLinkError: Native Library /private/var/folders/84/t8dg_5tn4f5dql9_rxz67j100000gn/T/libgdxoskar/45614fc1/liblwjgl.dylib already loaded in another classloader
+	at java.base/jdk.internal.loader.NativeLibraries.loadLibrary(NativeLibraries.java:201)
+	at java.base/jdk.internal.loader.NativeLibraries.loadLibrary(NativeLibraries.java:174)
+	at java.base/java.lang.ClassLoader.loadLibrary(ClassLoader.java:2389)
+	at java.base/java.lang.Runtime.load0(Runtime.java:755)
+	at java.base/java.lang.System.load(System.java:1953)
+	at org.lwjgl.Sys$1.run(Sys.java:70)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:318)
+	at org.lwjgl.Sys.doLoadLibrary(Sys.java:66)
+	at org.lwjgl.Sys.loadLibrary(Sys.java:95)
+	at org.lwjgl.Sys.<clinit>(Sys.java:112)
+	at org.lwjgl.openal.AL.<clinit>(AL.java:59)
+	at com.badlogic.gdx.backends.lwjgl.audio.OpenALAudio.<init>(OpenALAudio.java:72)
+	at com.badlogic.gdx.backends.lwjgl.LwjglApplication.<init>(LwjglApplication.java:82)
+	at com.badlogic.gdx.backends.lwjgl.LwjglApplication.<init>(LwjglApplication.java:64)
+	at dk.sdu.mmmi.cbse.core.main.Installer.restored(Installer.java:23)
+	at org.netbeans.core.startup.NbInstaller.loadCode(NbInstaller.java:447)
+[catch] at org.netbeans.core.startup.NbInstaller.loadImpl(NbInstaller.java:370)
+	at org.netbeans.core.startup.NbInstaller.access$000(NbInstaller.java:77)
+	at org.netbeans.core.startup.NbInstaller$1.run(NbInstaller.java:322)
+	at org.openide.filesystems.FileUtil$2.run(FileUtil.java:417)
+	at org.openide.filesystems.EventControl.runAtomicAction(EventControl.java:102)
+	at org.openide.filesystems.FileSystem.runAtomicAction(FileSystem.java:494)
+	at org.openide.filesystems.FileUtil.runAtomicAction(FileUtil.java:401)
+	at org.openide.filesystems.FileUtil.runAtomicAction(FileUtil.java:421)
+	at org.netbeans.core.startup.NbInstaller.load(NbInstaller.java:319)
+	at org.netbeans.ModuleManager.enable(ModuleManager.java:1457)
+	at org.netbeans.ModuleManager.enable(ModuleManager.java:1254)
+	at org.netbeans.core.startup.ModuleList.installNew(ModuleList.java:315)
+	at org.netbeans.core.startup.ModuleList.access$2400(ModuleList.java:93)
+	at org.netbeans.core.startup.ModuleList$Listener.stepEnable(ModuleList.java:1384)
+	at org.netbeans.core.startup.ModuleList$Listener.access$1400(ModuleList.java:982)
+	at org.netbeans.core.startup.ModuleList$Listener$1.run(ModuleList.java:1206)
+	at org.openide.filesystems.EventControl.runAtomicAction(EventControl.java:102)
+	at org.openide.filesystems.FileSystem.runAtomicAction(FileSystem.java:494)
+	at org.netbeans.core.startup.ModuleList$Listener.run(ModuleList.java:1182)
+	at org.openide.util.RequestProcessor$Task.run(RequestProcessor.java:1418)
+	at org.netbeans.modules.openide.util.GlobalLookup.execute(GlobalLookup.java:45)
+	at org.openide.util.lookup.Lookups.executeWith(Lookups.java:278)
+	at org.openide.util.RequestProcessor$Processor.run(RequestProcessor.java:2033)
+INFO [org.netbeans.core.startup.NbEvents]: Turning on modules:
+	dk.sdu.mmmi.cbse.Asteroid [1.0.1 1.0.1-20220410 202204101611]
+	dk.sdu.mmmi.cbse.Core [1.0.1 1.0.1-20220410 202204101611]
+INFO [org.openide.awt.NotificationDisplayer]: No NotificationDisplayer implementation available.
+INFO [org.netbeans.modules.autoupdate.silentupdate]: None for update/install/uninstall
+INFO [null]: Last record repeated 2 more times.
+INFO [null]: Last record repeated 2 more times.
+INFO [null]: Last record repeated 2 more times.
+INFO [null]: Last record repeated 2 more times.
+INFO [null]: Last record repeated more than 10 times, further logs of this record are ignored until the log record changes.
+INFO [null]: Last record repeated 19 times in total.
+SEVERE [global]
+java.lang.ClassNotFoundException: com.badlogic.gdx.backends.lwjgl.LwjglApplication$2
+	at java.base/jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:641)
+	at java.base/jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:188)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:520)
+	at org.netbeans.ProxyClassLoader.doFindClass(ProxyClassLoader.java:209)
+Caused: java.lang.ClassNotFoundException: com.badlogic.gdx.backends.lwjgl.LwjglApplication$2 starting from ModuleCL@240c469f[dk.sdu.mmmi.cbse.Core] with possible defining loaders [ModuleCL@2ad3dbd4[dk.sdu.mmmi.cbse.Core]] and declared parents [ModuleCL@7ed81e69[dk.sdu.mmmi.cbse.Common], org.netbeans.JarClassLoader@47d04b9c, ModuleCL@39e2a803[org.netbeans.api.annotations.common]]
+	at org.netbeans.ProxyClassLoader.doFindClass(ProxyClassLoader.java:211)
+	at org.netbeans.ProxyClassLoader.loadClass(ProxyClassLoader.java:125)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:520)
+Caused: java.lang.NoClassDefFoundError: com/badlogic/gdx/backends/lwjgl/LwjglApplication$2
+	at com.badlogic.gdx.backends.lwjgl.LwjglApplication.exit(LwjglApplication.java:384)
+	at com.badlogic.gdx.backends.lwjgl.LwjglApplication.mainLoop(LwjglApplication.java:146)
+	at com.badlogic.gdx.backends.lwjgl.LwjglApplication$1.run(LwjglApplication.java:114)
+Caused: com.badlogic.gdx.utils.GdxRuntimeException
+[catch] at com.badlogic.gdx.backends.lwjgl.LwjglApplication$1.run(LwjglApplication.java:120)
+INFO [org.openide.awt.NotificationDisplayer]: No NotificationDisplayer implementation available.
+INFO [org.netbeans.modules.autoupdate.silentupdate]: None for update/install/uninstall
+INFO [null]: Last record repeated again.
+INFO [null]: Last record repeated again.
+INFO [null]: Last record repeated again.
